@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is a **Next.js** application with **Prisma**, **PostgreSQL**, and **NextAuth.js** for user authentication and role-based access control (RBAC). Users can sign up, but they must be assigned a role by an **admin** before accessing protected pages. After signing in, users are redirected based on their roles.
 
-## 🚀 Features
+##  Features
 - User authentication with **NextAuth.js**
 - Password hashing with **bcrypt.js**
 - Database integration using **Prisma ORM**
